@@ -18,9 +18,10 @@ run:
 docker run -p 8080:8080 <image-id>
 ```
 
-Open your browser, type `http://localhost:8080/` in the address bar, and type Enter.
+Open your browser, type `http://localhost:8080/` in the address bar, and hit `Enter` key as hard as you can.
 
-You will see 
+If you're lucky, you'll see
+
 ![](pictures/browser.png)
 
 
