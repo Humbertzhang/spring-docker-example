@@ -28,5 +28,7 @@ You will see
 
 [Maven入门教程](https://cloud.tencent.com/developer/article/1381622)
 
+[Maven环境配置](https://www.runoob.com/maven/maven-setup.html)
+
 [Maven基础知识](https://www.imooc.com/wiki/mavenlesson/mavenintroduction.html)
 
